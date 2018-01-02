@@ -2,18 +2,6 @@ This is a list of plugins that I use on various projects for various reasons. Th
 
 --
 
-Contact Form: [Gravity Forms](https://www.gravityforms.com/)
+[WordPress](wordpress.md)
 
-SEO: [Yoast SEO](https://wordpress.org/plugins/wordpress-seo/)
-
-Backups: [Vaultpress](https://vaultpress.com/) (paid) or [Updraft](https://updraftplus.com/) (free)
-
-Search: [SearchWP](https://searchwp.com/)
-
-Content filtering: [FacetWP](https://facetwp.com/)
-
-Analytics: [Monsterinsights](https://www.monsterinsights.com/) - free and paid for simple and advanced tracking
-
-Manage/customize user permissions: [User Role Editor](https://wordpress.org/plugins/user-role-editor/)
-
-Migrate websites: [All-in-one WP Migration](https://wordpress.org/plugins/all-in-one-wp-migration/) - free version doesn't work on large websites
+[SEO](seo.md)
