@@ -17,3 +17,5 @@ Analytics: [Monsterinsights](https://www.monsterinsights.com/) - free and paid f
 Manage/customize user permissions: [User Role Editor](https://wordpress.org/plugins/user-role-editor/)
 
 Migrate websites: [All-in-one WP Migration](https://wordpress.org/plugins/all-in-one-wp-migration/) - free version doesn't work on large websites
+
+Compress images on upload: [Compress JPEG & PNG Images](https://wordpress.org/plugins/tiny-compress-images/)
