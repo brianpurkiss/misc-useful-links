@@ -19,3 +19,5 @@ Manage/customize user permissions: [User Role Editor](https://wordpress.org/plug
 Migrate websites: [All-in-one WP Migration](https://wordpress.org/plugins/all-in-one-wp-migration/) - free version doesn't work on large websites
 
 Compress images on upload: [Compress JPEG & PNG Images](https://wordpress.org/plugins/tiny-compress-images/)
+
+Improve site speed with async: [Async JavaScript](https://wordpress.org/plugins/async-javascript/)
