@@ -2,11 +2,11 @@ This is a list of plugins that I use on various projects for various reasons. Th
 
 --
 
+# General / Frontend
+
 Contact Form: [Gravity Forms](https://www.gravityforms.com/)
 
 SEO: [Yoast SEO](https://wordpress.org/plugins/wordpress-seo/)
-
-Backups: [Vaultpress](https://vaultpress.com/) (paid) or [Updraft](https://updraftplus.com/) (free)
 
 Search: [SearchWP](https://searchwp.com/)
 
@@ -14,10 +14,22 @@ Content filtering: [FacetWP](https://facetwp.com/)
 
 Analytics: [Monsterinsights](https://www.monsterinsights.com/) - free and paid for simple and advanced tracking
 
-Manage/customize user permissions: [User Role Editor](https://wordpress.org/plugins/user-role-editor/)
+# Misc
 
 Migrate websites: [All-in-one WP Migration](https://wordpress.org/plugins/all-in-one-wp-migration/) - free version doesn't work on large websites
 
+Backups: [Vaultpress](https://vaultpress.com/) (paid) or [Updraft](https://updraftplus.com/) (free)
+
+# Security
+
+Manage/customize user permissions: [User Role Editor](https://wordpress.org/plugins/user-role-editor/)
+
+Security scans and site cleaning: [WordFence](https://www.wordfence.com/)
+
+# Speed 
+
 Compress images on upload: [Compress JPEG & PNG Images](https://wordpress.org/plugins/tiny-compress-images/)
 
-Improve site speed with async: [Async JavaScript](https://wordpress.org/plugins/async-javascript/)
+Compress HTML, CSS, JS: [Sutoptimize](https://wordpress.org/plugins/autoptimize/)
+
+Site caching and speed: [WP Rocket](https://wp-rocket.me/)
