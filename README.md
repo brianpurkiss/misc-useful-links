@@ -6,4 +6,6 @@ This is a list of plugins, resources, and online that I use on various projects 
 
 [SEO](seo.md)
 
-[Misc Development Snippets][development.md]
+[Analysis](siteanalysis.md)
+
+[Misc Development Snippets](development.md)
