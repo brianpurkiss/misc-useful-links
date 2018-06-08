@@ -2,10 +2,10 @@
 # Scanning, Analyzing, and Testing Sites
 
 
-[https://www.dareboost.com/en/home](Dareboost Site Speed Test - very thorough) - this one provides a very thorough (and harsh) analysis of the site
+[Dareboost Site Speed Test - very thorough](https://www.dareboost.com/en/home) - this one provides a very thorough (and harsh) analysis of the site
 
-[https://tools.pingdom.com/](Pingdom Site Speed Test)
+[Pingdom Site Speed Test](https://tools.pingdom.com/)
 
-[https://gtmetrix.com/](GTmetrix site speed test)
+[GTmetrix site speed test](https://gtmetrix.com/)
 
-[https://www.dotcom-tools.com/website-speed-test.aspx](Site Speed Test from 25 Different Locations, first load & cached assets load) - Best tool to get an aggregate analysis of a site's first and cached load time
+[Site Speed Test from 25 Different Locations, first load & cached assets load](https://www.dotcom-tools.com/website-speed-test.aspx) - Best tool to get an aggregate analysis of a site's first and cached load time
