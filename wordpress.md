@@ -18,6 +18,8 @@ Analytics: [Monsterinsights](https://www.monsterinsights.com/) - free and paid f
 
 Migrate websites: [All-in-one WP Migration](https://wordpress.org/plugins/all-in-one-wp-migration/) - free version doesn't work on large websites
 
+Update site URLs in content after migration; [Velvet Blues Update URLs](https://wordpress.org/plugins/velvet-blues-update-urls/)
+
 Backups: [Vaultpress](https://vaultpress.com/) (paid) or [Updraft](https://updraftplus.com/) (free)
 
 # Security
