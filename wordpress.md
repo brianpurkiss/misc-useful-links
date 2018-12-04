@@ -18,7 +18,13 @@ Analytics: [Monsterinsights](https://www.monsterinsights.com/) - free and paid f
 
 Migrate websites: [Duplicator](https://wordpress.org/plugins/duplicator/) - easy turn key solution. Two part install works well on large sites
 
+<<<<<<< HEAD
 Backups: TBD, host provided backups is the best
+=======
+Update site URLs in content after migration; [Velvet Blues Update URLs](https://wordpress.org/plugins/velvet-blues-update-urls/)
+
+Backups: [Vaultpress](https://vaultpress.com/) (paid) or [Updraft](https://updraftplus.com/) (free)
+>>>>>>> 764bf79f51aaceed7ed9fa8b6e1783649641e309
 
 # Security
 
