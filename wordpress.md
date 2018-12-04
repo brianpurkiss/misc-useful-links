@@ -16,9 +16,9 @@ Analytics: [Monsterinsights](https://www.monsterinsights.com/) - free and paid f
 
 # Misc
 
-Migrate websites: [All-in-one WP Migration](https://wordpress.org/plugins/all-in-one-wp-migration/) - free version doesn't work on large websites
+Migrate websites: [Duplicator](https://wordpress.org/plugins/duplicator/) - easy turn key solution. Two part install works well on large sites
 
-Backups: [Vaultpress](https://vaultpress.com/) (paid) or [Updraft](https://updraftplus.com/) (free)
+Backups: TBD, host provided backups is the best
 
 # Security
 
@@ -26,10 +26,17 @@ Manage/customize user permissions: [User Role Editor](https://wordpress.org/plug
 
 Security scans and site cleaning: [WordFence](https://www.wordfence.com/)
 
-# Speed 
+# Speed
 
 Compress images on upload: [Compress JPEG & PNG Images](https://wordpress.org/plugins/tiny-compress-images/)
 
 Compress HTML, CSS, JS: [Sutoptimize](https://wordpress.org/plugins/autoptimize/)
 
 Site caching and speed: [WP Rocket](https://wp-rocket.me/)
+
+
+
+
+# Plugins to avoid
+
+Backup Buddy - really bloats up a website
