@@ -1,5 +1,5 @@
 
-# Scanning, Analyzing, and Testing Sites
+# Scanning a website for performance
 
 
 [Google's Web.dev](https://web.dev/) - provides very useful info
@@ -11,3 +11,8 @@
 [GTmetrix site speed test](https://gtmetrix.com/)
 
 [Site Speed Test from 25 Different Locations, first load & cached assets load](https://www.dotcom-tools.com/website-speed-test.aspx) - Best tool to get an aggregate analysis of a site's first and cached load time
+
+
+# Analyze code quality
+
+[CSS Stats](https://cssstats.com/) - Scan a CSS file for code quality
