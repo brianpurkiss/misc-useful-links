@@ -19,7 +19,7 @@ Analytics: [Monsterinsights](https://www.monsterinsights.com/) - free and paid f
 
 Migrate websites: [Duplicator](https://wordpress.org/plugins/duplicator/) - easy turn key solution. Two part install works well on large sites
 
-Backups: TBD, host provided backups is the best
+Backups: Host provided backups are the best options. I haven't found any third party backups that I like.
 
 
 # Security
@@ -31,11 +31,13 @@ Security scans and site cleaning: [WordFence](https://www.wordfence.com/)
 
 # Speed
 
+Site caching and speed: [WP Rocket](https://wp-rocket.me/)
+
 Compress images on upload: [Compress JPEG & PNG Images](https://wordpress.org/plugins/tiny-compress-images/)
 
-Compress HTML, CSS, JS: [Sutoptimize](https://wordpress.org/plugins/autoptimize/)
+Compress HTML, CSS, JS: [Sutoptimize](https://wordpress.org/plugins/autoptimize/) (only needed if you don't use WP Rocket)
 
-Site caching and speed: [WP Rocket](https://wp-rocket.me/)
+
 
 
 
@@ -43,3 +45,5 @@ Site caching and speed: [WP Rocket](https://wp-rocket.me/)
 # Plugins to avoid
 
 Backup Buddy - really bloats up a website
+
+iThemes Sync
