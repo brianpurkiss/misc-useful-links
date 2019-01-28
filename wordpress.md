@@ -15,6 +15,13 @@ Content filtering: [FacetWP](https://facetwp.com/)
 Analytics: [Monsterinsights](https://www.monsterinsights.com/) - free and paid for simple and advanced tracking
 
 
+# Gutenberg
+
+Sample Content: [Sample content to test Gutenbert layouts](https://gist.github.com/brianpurkiss/a75c7fd0d0b18b8cb0581dd7916b0ec8)
+
+Easily Creating blocks: [Carbon Fields Gutenberg documentation](https://docs.carbonfields.net/#/containers/gutenberg-blocks)
+
+
 # Misc
 
 Migrate websites: [Duplicator](https://wordpress.org/plugins/duplicator/) - easy turn key solution. Two part install works well on large sites
