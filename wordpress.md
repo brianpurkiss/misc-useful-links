@@ -6,7 +6,7 @@ This is a list of plugins that I use on various projects for various reasons. Th
 
 Contact Form: [Gravity Forms](https://www.gravityforms.com/)
 
-SEO: [Yoast SEO](https://wordpress.org/plugins/wordpress-seo/)
+SEO: [The SEO Framework](https://theseoframework.com/)
 
 Search: [SearchWP](https://searchwp.com/)
 
