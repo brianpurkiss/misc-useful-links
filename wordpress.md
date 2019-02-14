@@ -26,7 +26,7 @@ Easily Creating blocks: [Carbon Fields Gutenberg documentation](https://docs.car
 
 Migrate websites: [Duplicator](https://wordpress.org/plugins/duplicator/) - easy turn key solution. Two part install works well on large sites
 
-Backups: Host provided backups are the best options. I haven't found any third party backups that I like.
+Backups: Host provided backups are the best options. I haven't found any third party backups that I like (yet).
 
 
 # Security
@@ -42,11 +42,9 @@ Site caching and speed: [WP Rocket](https://wp-rocket.me/)
 
 Compress images on upload: [Compress JPEG & PNG Images](https://wordpress.org/plugins/tiny-compress-images/)
 
+Database optimize and clean: [WP-Optimize](https://wordpress.org/plugins/wp-optimize/)
+
 Compress HTML, CSS, JS: [Sutoptimize](https://wordpress.org/plugins/autoptimize/) (only needed if you don't use WP Rocket)
-
-
-
-
 
 
 # Plugins to avoid
