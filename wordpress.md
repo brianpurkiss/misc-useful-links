@@ -46,6 +46,8 @@ Database optimize and clean: [WP-Optimize](https://wordpress.org/plugins/wp-opti
 
 Compress HTML, CSS, JS: [Sutoptimize](https://wordpress.org/plugins/autoptimize/) (only needed if you don't use WP Rocket)
 
+Optimize your website by going to [yourdomain.com]/wp-admin/maint/repair.php
+
 
 # Plugins to avoid
 
