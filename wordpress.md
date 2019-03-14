@@ -19,21 +19,9 @@ Analytics: [Monsterinsights](https://www.monsterinsights.com/) - free and paid f
 
 Sample Content: [Sample content to test Gutenbert layouts](https://gist.github.com/brianpurkiss/a75c7fd0d0b18b8cb0581dd7916b0ec8)
 
-Easily Creating blocks: [Carbon Fields Gutenberg documentation](https://docs.carbonfields.net/#/containers/gutenberg-blocks)
+Easily creating blocks: [Advanced Custom Fields](https://www.advancedcustomfields.com/)
 
-
-# Misc
-
-Migrate websites: [Duplicator](https://wordpress.org/plugins/duplicator/) - easy turn key solution. Two part install works well on large sites
-
-Backups: Host provided backups are the best options. I haven't found any third party backups that I like (yet).
-
-
-# Security
-
-Manage/customize user permissions: [User Role Editor](https://wordpress.org/plugins/user-role-editor/)
-
-Security scans and site cleaning: [WordFence](https://www.wordfence.com/)
+Easily creating blocks: [Carbon Fields Gutenberg documentation](https://docs.carbonfields.net/#/containers/gutenberg-blocks)
 
 
 # Speed
@@ -46,7 +34,23 @@ Database optimize and clean: [WP-Optimize](https://wordpress.org/plugins/wp-opti
 
 Compress HTML, CSS, JS: [Sutoptimize](https://wordpress.org/plugins/autoptimize/) (only needed if you don't use WP Rocket)
 
-Optimize your website by going to [yourdomain.com]/wp-admin/maint/repair.php
+Clean and optimize a site's database by going to [yourdomain.com]/wp-admin/maint/repair.php
+
+
+# Security
+
+Manage/customize user permissions: [User Role Editor](https://wordpress.org/plugins/user-role-editor/)
+
+Security scans and site cleaning: [WordFence](https://www.wordfence.com/)
+
+
+# Misc
+
+Migrate websites: [Duplicator](https://wordpress.org/plugins/duplicator/) - easy turn key solution. Two part install works well on large sites.
+
+SMTP Email: [WP Mail SMTP by WPForms](https://wordpress.org/plugins/wp-mail-smtp/)
+
+Backups: Host provided backups are the best options. I haven't found any third party backups that I like (yet).
 
 
 # Plugins to avoid
