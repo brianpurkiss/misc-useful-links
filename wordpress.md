@@ -23,6 +23,7 @@ Easily creating blocks: [Advanced Custom Fields](https://www.advancedcustomfield
 
 Easily creating blocks: [Carbon Fields Gutenberg documentation](https://docs.carbonfields.net/#/containers/gutenberg-blocks)
 
+[Bootstrap Blocks](https://wordpress.org/plugins/wp-bootstrap-blocks/) - Bootstrap 4 Gutenberg Blocks for WordPress.
 
 # Speed
 
@@ -30,9 +31,11 @@ Site caching and speed: [WP Rocket](https://wp-rocket.me/)
 
 Compress images on upload: [Compress JPEG & PNG Images](https://wordpress.org/plugins/tiny-compress-images/)
 
-Database optimize and clean: [WP-Optimize](https://wordpress.org/plugins/wp-optimize/)
+Database optimize and clean: [WP-Sweep](https://wordpress.org/plugins/wp-sweep/)
 
 Compress HTML, CSS, JS: [Sutoptimize](https://wordpress.org/plugins/autoptimize/) (only needed if you don't use WP Rocket)
+
+[Lazy Load by WP Rocket](https://wordpress.org/plugins/rocket-lazy-load/) - only needed if the site isn't using WP Rocket
 
 Clean and optimize a site's database by going to [yourdomain.com]/wp-admin/maint/repair.php
 
@@ -46,11 +49,17 @@ Security scans and site cleaning: [WordFence](https://www.wordfence.com/)
 
 # Misc
 
+[Github updater](https://github.com/afragen/github-updater) - use Git to easily update plugins and themes on any server
+
 Migrate websites: [Duplicator](https://wordpress.org/plugins/duplicator/) - easy turn key solution. Two part install works well on large sites.
 
 SMTP Email: [WP Mail SMTP by WPForms](https://wordpress.org/plugins/wp-mail-smtp/)
 
 Backups: Host provided backups are the best options. I haven't found any third party backups that I like (yet).
+
+[Better Search Replace](https://wordpress.org/plugins/better-search-replace/) - A small plugin for running a search/replace on your WordPress database.
+
+[Broken link checker](https://wordpress.org/plugins/broken-link-checker/) - Checks your blog for broken links and missing images and notifies you on the dashboard if any are found.
 
 
 # Plugins to avoid
