@@ -57,7 +57,7 @@ SMTP Email: [WP Mail SMTP by WPForms](https://wordpress.org/plugins/wp-mail-smtp
 
 Backups: Host provided backups are the best options. I haven't found any third party backups that I like (yet).
 
-[Better Search Replace](https://wordpress.org/plugins/better-search-replace/) - A small plugin for running a search/replace on your WordPress database.
+[Search & Replace](https://wordpress.org/plugins/search-and-replace/) - Search & Replace data in your whole WordPress setup, backup and import your database, change table prefix or migrate your domain to another domain.
 
 [Broken link checker](https://wordpress.org/plugins/broken-link-checker/) - Checks your blog for broken links and missing images and notifies you on the dashboard if any are found.
 
