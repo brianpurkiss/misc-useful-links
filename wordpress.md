@@ -61,6 +61,8 @@ Backups: Host provided backups are the best options. I haven't found any third p
 
 [Broken link checker](https://wordpress.org/plugins/broken-link-checker/) - Checks your blog for broken links and missing images and notifies you on the dashboard if any are found.
 
+[Safe SVG](https://wordpress.org/plugins/safe-svg/) - Uploading a SVG can open the door for vulnerabilities. This plugin will sanitize uploaded SVGs, reducing that security risk.
+
 
 # Plugins to avoid
 
