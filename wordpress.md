@@ -29,6 +29,8 @@ Easily creating blocks: [Carbon Fields Gutenberg documentation](https://docs.car
 
 Site caching and speed: [WP Rocket](https://wp-rocket.me/)
 
+Free site caching: [LiteSpeed Cache](https://wordpress.org/plugins/litespeed-cache/) (haven't used yet, but it's an awesome sales pitch)
+
 Compress images on upload: [Compress JPEG & PNG Images](https://wordpress.org/plugins/tiny-compress-images/)
 
 Database optimize and clean: [WP-Sweep](https://wordpress.org/plugins/wp-sweep/)
